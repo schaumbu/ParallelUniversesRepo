@@ -14,7 +14,7 @@ namespace Platformer.Model
         /// <summary>
         /// The virtual camera in the scene.
         /// </summary>
-        //public Cinemachine.CinemachineVirtualCamera virtualCamera;
+        public Cinemachine.CinemachineVirtualCamera virtualCamera;
 
         /// <summary>
         /// The main component which controls the player sprite, controlled 
@@ -30,7 +30,7 @@ namespace Platformer.Model
         /// <summary>
         /// A global jump modifier applied to all initial jump velocities.
         /// </summary>
-        public float jumpModifier = 1.5f;
+        public float jumpModifier = 2f;
 
         /// <summary>
         /// A global jump modifier applied to slow down an active jump when 
