@@ -25,7 +25,7 @@ namespace Platformer.Mechanics
         /// <summary>
         /// Initial jump velocity at the start of a jump.
         /// </summary>
-        public float jumpTakeOffSpeed = 7;
+        public float jumpTakeOffSpeed = 9;
 
         public JumpState jumpState = JumpState.Grounded;
         private bool stopJump;
@@ -118,14 +118,10 @@ namespace Platformer.Mechanics
                 }
             }
 
-            
-
             animator.SetBool("grounded", IsGrounded);
             animator.SetFloat("velocityX", Mathf.Abs(velocity.x) / maxSpeed);
-
             
             spriteRenderer.flipX = false;
-
             if (move.x < -0.01f && !IsGrounded)
                 spriteRenderer.flipX = true;
             
