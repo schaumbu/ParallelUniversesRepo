@@ -2,13 +2,115 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367f8c4b-dfd7-4e62-b4fb-a8ebc8b0c122" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ParallelUniversesRepo/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ParallelUniversesRepo/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerInput.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerInput.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerInput.inputactions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerInput.inputactions.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Player_IDLE.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Player_IDLE.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/spr_player_idle_strip2_0.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/spr_player_idle_strip2_0.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Enemies.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Enemies/spr_enemy_slime_strip2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Enviroment.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Enviroment/spr_firefly_strip2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/spr_cat_idle_strip2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/spr_coin_big_strip8.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/spr_coin_small_strip6.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/Player_DEATH.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/Player_DEATH.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/Player_RESPAWN.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/Player_RESPAWN.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/Player_WALK.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/Player_WALK.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_alt_damage_strip4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_alt_explode_strip6.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_alt_idle_strip2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_alt_respawn_strip10.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_alt_walk_strip4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_explode_strip6_0.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_explode_strip6_0.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_respawn_strip10_0.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_respawn_strip10_0.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_walk_strip4_0.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_walk_strip4_0.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/Dimension1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/Dimension1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_10.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_10.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_11.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_11.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_12.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_12.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_13.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_13.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_14.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_14.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_15.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_15.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_16.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_16.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_17.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_17.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_18.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_18.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_19.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_19.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_2.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_2.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_20.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_20.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_21.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_21.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_22.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_22.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_23.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_23.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_24.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_24.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_25.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_25.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_26.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_26.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_27.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_27.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_3.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_3.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_4.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_4.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_5.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_5.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_6.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_6.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_7.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_7.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_8.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_8.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_9.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/tileset_dimension_a_9.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension2.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/tileset_dimension_b.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/UI/spr_font_basic_strip99.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ParallelUniversesRepo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ParallelUniversesRepo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Character/Animations/Player.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character/Animations/Player.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_explode_strip6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_explode_strip6.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_idle_strip2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_idle_strip2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_jump_strip1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_respawn_strip10.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_respawn_strip10.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_walk_strip4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_walk_strip4.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Tilesets/tileset_dimension_a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Mechanics/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/PlayerController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,16 +125,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Discover.Launch.Via.Unity": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "rider.run.widget.enabled.cache": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;rider.run.widget.enabled.cache&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
     <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.5f1\Editor\Unity.exe" />
@@ -42,10 +144,10 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="19832">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="19832" />
+      <option name="pid" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -72,6 +174,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656101097982</updated>
       <workItem from="1656101107204" duration="1119000" />
+      <workItem from="1656241806436" duration="1924000" />
     </task>
     <servers />
   </component>
@@ -83,24 +186,5 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs</url>
-          <line>33</line>
-          <properties documentPath="C:\Users\rheal\OneDrive\Desktop\Uni\Semester 2\GameJam\ParallelUniversesRepo\Assets\Scripts\PlayerMovement.cs" initialLine="23" containingFunctionPresentation="method 'walkLeft'">
-            <startOffsets>
-              <option value="603" />
-            </startOffsets>
-            <endOffsets>
-              <option value="638" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
