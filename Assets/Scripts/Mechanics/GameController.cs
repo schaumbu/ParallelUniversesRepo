@@ -23,6 +23,7 @@ namespace Platformer.Mechanics
         void OnEnable()
         {
             Instance = this;
+            Cursor.visible = false;
         }
 
         void OnDisable()

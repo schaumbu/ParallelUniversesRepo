@@ -2,70 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367f8c4b-dfd7-4e62-b4fb-a8ebc8b0c122" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Audio.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/Collectable.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/Collectable.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/Death.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/Death.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/Hurt.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/Hurt.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/LandOnEnemy.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/LandOnEnemy.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/LandOnGround.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/LandOnGround.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/Music.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/Music.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/Walk01.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/Walk01.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/Walk02.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/Walk02.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/jump.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/jump.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Coin.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Coin.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/Coin.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/Coin.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/spr_coin_big_strip8_0.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/spr_coin_big_strip8_0.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/spr_platform_0.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/spr_platform_0.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/spr_platform_1.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/spr_platform_1.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension2/spr_platform_0.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension2/spr_platform_0.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension2/spr_platform_1.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension2/spr_platform_1.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/spr_platform.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Gameplay/CoinCollect.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Gameplay/CoinCollect.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Gameplay/PlayerVictory.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Gameplay/PlayerVictory.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/CollectItem.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/CollectItem.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/SwitchDimension.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/SwitchDimension.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/VictoryZone.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/VictoryZone.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Cat.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Cat.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/AnimationControllerCat.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/AnimationControllerCat.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/Cat.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/Cat.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/CatController.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/CatController.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/HappyCat.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/HappyCat.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/Materials/spr_cat_happy_strip18.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/Materials/spr_cat_happy_strip18.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/spr_cat_happy_strip18.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/spr_cat_happy_strip18_0.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/spr_cat_happy_strip18_0.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/Items/spr_cat_happy_strip2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/New Sprite Atlas.spriteatlas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Graphics/New Sprite Atlas.spriteatlas.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/TouchingCat.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/TouchingCat.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimelineSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserSettings/Search.settings" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ParallelUniversesRepo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ParallelUniversesRepo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Character/Animations/Player.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Character/Animations/Player.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Items/spr_coin_big_strip8.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Items/spr_coin_big_strip8.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_damage_strip4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_damage_strip4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_explode_strip6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_explode_strip6.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_idle_strip2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_idle_strip2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_jump_strip3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_jump_strip3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_land_strip4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_land_strip4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_respawn_strip10.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_respawn_strip10.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_walk_strip4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Player/spr_player_walk_strip4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/Dimension1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension1/Dimension1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension2/Dimension2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Tilesets/Dimension2/Dimension2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Enemies/spr_enemy_slime_strip2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Enemies/spr_enemy_slime_strip2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Enemies/spr_spike.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Enemies/spr_spike.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Items/spr_cat_idle_strip2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Items/spr_cat_idle_strip2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Items/spr_coin_big_strip8_0.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Items/spr_coin_big_strip8_0.controller.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/PlayerDeath.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Gameplay/PlayerDeath.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/PlayerSpawn.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Gameplay/PlayerSpawn.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Mechanics/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/PlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Model/PlatformerModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Model/PlatformerModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Mechanics/GameController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/GameController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +52,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/CollectItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/SwitchDimension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/TouchingCat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mechanics/VictoryZone.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -96,6 +74,14 @@
   }
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Build\ParallelUniverse.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\rheal\OneDrive\Desktop\Uni\Semester 2\GameJam\Build" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.5f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;C:\Users\rheal\OneDrive\Desktop\Uni\Semester 2\GameJam\ParallelUniversesRepo&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
@@ -134,7 +120,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656101097982</updated>
       <workItem from="1656101107204" duration="1119000" />
-      <workItem from="1656241806436" duration="8473000" />
+      <workItem from="1656241806436" duration="11583000" />
     </task>
     <servers />
   </component>
